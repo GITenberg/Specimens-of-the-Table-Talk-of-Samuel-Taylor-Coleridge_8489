@@ -1,0 +1,39 @@
+_repo: Specimens-of-the-Table-Talk-of-Samuel-Taylor-Coleridge_8489
+contributor:
+  creator:
+    editor:
+      agent_name: Coleridge, Henry Nelson
+      birthdate: 1798
+      deathdate: 1843
+      gutenberg_agent_id: '2942'
+      url: http://www.gutenberg.org/2009/agents/2942
+      wikipedia: http://en.wikipedia.org/wiki/Henry_Nelson_Coleridge
+creator:
+  author:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Critics -- Great Britain -- Interviews'
+- !lcsh 'Coleridge, Samuel Taylor, 1772-1834 -- Quotations'
+- !lcc 'PR'
+- !lcsh 'Poetry -- Authorship'
+- !lcsh 'Quotations, English'
+- !lcsh 'England -- Intellectual life -- 19th century'
+- !lcsh 'Coleridge, Samuel Taylor, 1772-1834 -- Interviews'
+- !lcsh 'Poets, English -- 19th century -- Interviews'
+title: Specimens of the Table Talk of Samuel Taylor Coleridge
+url: http://www.gutenberg.org/ebooks/8489
